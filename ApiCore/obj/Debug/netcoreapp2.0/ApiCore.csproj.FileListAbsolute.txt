@@ -1,0 +1,11 @@
+C:\Users\lucas\Documents\Pessoal\Profissional\Ibope\Estudos sobre API\ApiCore\bin\Debug\netcoreapp2.0\ApiCore.deps.json
+C:\Users\lucas\Documents\Pessoal\Profissional\Ibope\Estudos sobre API\ApiCore\bin\Debug\netcoreapp2.0\ApiCore.runtimeconfig.json
+C:\Users\lucas\Documents\Pessoal\Profissional\Ibope\Estudos sobre API\ApiCore\bin\Debug\netcoreapp2.0\ApiCore.runtimeconfig.dev.json
+C:\Users\lucas\Documents\Pessoal\Profissional\Ibope\Estudos sobre API\ApiCore\bin\Debug\netcoreapp2.0\ApiCore.dll
+C:\Users\lucas\Documents\Pessoal\Profissional\Ibope\Estudos sobre API\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Pessoal\Profissional\Ibope\Estudos sobre API\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Pessoal\Profissional\Ibope\Estudos sobre API\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Pessoal\Profissional\Ibope\Estudos sobre API\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.AssemblyInfo.cs
+C:\Users\lucas\Documents\Pessoal\Profissional\Ibope\Estudos sobre API\ApiCore\bin\Debug\netcoreapp2.0\ApiCore.pdb
+C:\Users\lucas\Documents\Pessoal\Profissional\Ibope\Estudos sobre API\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.dll
+C:\Users\lucas\Documents\Pessoal\Profissional\Ibope\Estudos sobre API\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.pdb
