@@ -10,4 +10,4 @@ Usei o Postman para fazer os testes.
 A string de conexão com o banco de dados está em appsettings.json. Foi usado o MySQL.
 
 
-Upei todo o projeto da solução e o script do banco e também upei o projeto compactado só pra garantir.
+Upei todo o projeto da solução e o script do banco, e também upei o projeto compactado só pra garantir.
